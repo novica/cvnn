@@ -65,12 +65,12 @@ Organized TEDx event in Skopje together with a group of TED enthusiasts.
 
 **August 2007 – April 2009**
 
-Producing a documentary movie on copyright and piracy issues in Republic of Macedonia.
+Worked on production of a documentary movie on copyright and piracy issues in Republic of Macedonia.
 
 **April 2006 - September 2007**
 
 Representative of Free Software Macedonia to the Project Advisory Board for UNDP FYR Macedonia Project “Support to e-Governance initiatives based on Free/Open Source Software at the local level in FYR
-Macedonia”. Co-authored the the work plan recommendations for the project.
+Macedonia”. Co-authored the the work plan recommendations [`PDF`_ file] for the project.
 
 **September 2005 – January 2009**
 
@@ -87,7 +87,7 @@ Published Articles and Other Writings
 
 **2012:** The Impact Of Social Policy On Sustainable Peacebuilding: The Case Of Kosovo published in `Security Dialogues`_.
 
-**2009:** Research paper `My Blog is my CV`_ was published in "Kulturen zivot" No. 1-2/2009 (in Macedonian).
+**2009:** Research paper "`My Blog is my CV`_" was published in "Kulturen zivot" No. 1-2/2009 (`in Macedonian`_).
 
 **2009:** An essay about the `economics of information goods`_ and copyright monopolies (in Macedonian).
 
@@ -177,10 +177,12 @@ Personal
 + Residence and citizenship: `Republic of Macedonia`_.
 
 .. Non-Paid Work Experience
+.. _PDF: http://www.slobodensoftver.org.mk/files/work-plan-recommendations-final.pdf
 
 .. Published Articles and Other Writings
 .. _Security Dialogues: http://sd.fzf.ukim.edu.mk/index.php/s5/gann
-.. _`My Blog is my CV`: http://www.scribd.com/doc/13719323/%D0%9C%D0%BE%D1%98%D0%BE%D1%82-%D0%B1%D0%BB%D0%BE%D0%B3-%D0%B5-%D0%BC%D0%BE%D0%B5%D1%82%D0%BE-%D1%80%D0%B5%D0%B7%D0%B8%D0%BC%D0%B5
+.. _My Blog is my CV: http://www.scribd.com/doc/166646418/Glocal-2-0-My-Blog-is-My-Cv
+.. _in Macedonian: http://www.scribd.com/doc/13719323/%D0%9C%D0%BE%D1%98%D0%BE%D1%82-%D0%B1%D0%BB%D0%BE%D0%B3-%D0%B5-%D0%BC%D0%BE%D0%B5%D1%82%D0%BE-%D1%80%D0%B5%D0%B7%D0%B8%D0%BC%D0%B5
 .. _economics of information goods: http://www.scribd.com/doc/15447385/%D0%9E%D1%81%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%B2%D0%B0%D1%9A%D0%B5-%D0%BD%D0%B0-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%81%D0%BA%D0%B8%D1%82%D0%B5-%D0%B4%D0%BE%D0%B1%D1%80%D0%B0
 .. _mother tongue: http://www.scribd.com/doc/4654667/%D0%A1%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D0%B5%D0%BD-%D1%81%D0%BE%D1%84%D1%82%D0%B2%D0%B5%D1%80-%D0%BD%D0%B0-%D0%BC%D0%B0%D1%98%D1%87%D0%B8%D0%BD-%D1%98%D0%B0%D0%B7%D0%B8%D0%BA
 .. _agreement: http://novica.duoscindo.net/sites/default/files/softverska_nevinost.html
