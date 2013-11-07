@@ -170,7 +170,7 @@ Personal
 --------
 
 + Writing mostly in Macedonian on airborne_. In 2012 I received *The Best Blog Award* on the competition organized by `Diversity Media Production`_.
-+ Columnist at IT.com.mk_ and `Radio Free Europe`_.
++ Contributing writer about techology and politics at `Nova Makedonija`_, IT.com.mk_ and `Radio Free Europe`_.
 + Some creative writing available online in a `Scribd collection`_.
 + Translated `On Bullshit`_ into Macedonian_.
 + Born: 1980.
@@ -201,6 +201,7 @@ Personal
 .. _Scribd collection: http://www.scribd.com/collections/2311342/Moi-tekstovi
 .. _On Bullshit: https://en.wikipedia.org/wiki/On_bullshit
 .. _Macedonian: http://novica.github.com/ZaSerenjeto/#kniga
-.. _IT.com.mk: http://it.com.mk/author/novicanakov/ 
+.. _Nova Makedonija: http://novamakedonija.com.mk/
+.. _IT.com.mk: http://it.com.mk/author/novicanakov/
 .. _Radio Free Europe: http://slobodnaevropa.mk/
 .. _Republic of Macedonia: https://en.wikipedia.org/wiki/Republic_of_Macedonia
