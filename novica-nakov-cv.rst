@@ -15,6 +15,11 @@ MA in International relations, Faculty of Philosophy, Ss. Cyril and Methodius Un
 
 MA Thesis in Peacebuilding: "The Impact of Social Policy on Sustainable Peacebuilding"
 
+**July 2011**
+Attended Summer School in Comparative Conflict Studies at Center for Comparative Conflict Studies, Faculty of Media and Communications in Belgrade, Serbia.
+
+The topic of the course was transition in Serbia.
+
 **July 2008**
 
 Passed the brokerage exam administered by The Securities and Exchange Commission of the Republic of Macedonia.
