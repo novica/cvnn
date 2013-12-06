@@ -47,8 +47,7 @@ Paid Work Experience
 
 **November 2005 – present**
 
-Trgotekstil zaednicki sluzbi AD – Skopje, a company that works with lending commercial real-estate. Responsible for client/customer relations and legal
-affairs.
+Trgotekstil zaednicki sluzbi AD – Skopje, a company that works with lending commercial real-estate. Responsible for accounting, financial reports, client/customer relations and legal affairs.
 
 
 **June 2004 - December 2004**
