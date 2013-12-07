@@ -2,7 +2,7 @@
  Novica Nakov
 ==============
 
-**tl;dr** MA in International Relatoins. Boring bill-paying day job. Spending rest of the time on Free Software and related topics. It seems I talk a lot. Can write. Constantly learning new things about technology.
+**tl;dr** MA in International Relatoins. Bill-paying day job. Spending rest of the time on Free Software and related topics. It seems I talk a lot. Can write. Constantly learning new things about technology.
 
 **Email:** nnovica@gmail.com
 
@@ -97,10 +97,17 @@ Published Articles and Other Writings
 
 **2007:** An essay about the importance of availability of (free) software in the `mother tongue`_ (in Macedonian).
 
-**2004:** A detailed chronological list of events and commentary from the free software activism perspective on the `agreement`_ that the Macedonian Government signed with Microsoft inc. in 2003 (in Macedonian). 
+**2004:** A detailed chronological list of events and commentary from the free software activism perspective on the `agreement`_ that the Macedonian Government signed with Microsoft inc. in 2003 (in Macedonian).
 
 Presentations and Lectures
 --------------------------
+
+**5 December 2013**
+Workshop / presentation about internet regulation at the student event "Stanica studentska" (with Damjan Georgievski and Ana Risteska).
+
+**3 December 2013**
+
+Speech about digital freedom and the writer on the Day of the Imprisoned Writer at the Faculty for Philosophy, Ss. Cyril and Methodius University, Skopje, Macedonia.
 
 **25 April 2013**
 
@@ -120,11 +127,11 @@ Lecture "Free software and its social implications" (with Damjan Georgievski) fo
 
 **25 February 2012**
 
-A speech_ about online and offline activism at the social media and activism conference "Engage"
+Speech about online and offline activism_ at the social media and activism conference "Engage"
 
 **15 January 2011**
 
-A speech about the hacker community and its contributions on mk.Wikipedia's event 10 years anniversary.
+Speech about the hacker community and its contributions on mk.Wikipedia's event 10 years anniversary.
 
 **December 2006, 2009 & 2010**
 
@@ -192,7 +199,7 @@ Personal
 .. _agreement: http://novica.duoscindo.net/sites/default/files/softverska_nevinost.html
 
 .. Presentations and Lectures
-.. _speech: http://www.radiomof.mk/engage-novica-nakov/
+.. _activism: http://www.radiomof.mk/engage-novica-nakov/
 .. _E-Society: http://e-society.mk/
 
 .. Technical Skills
