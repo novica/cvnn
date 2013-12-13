@@ -111,7 +111,7 @@ Speech about digital freedom and the writer on the Day of the Imprisoned Writer 
 
 **25 April 2013**
 
-Lecture "Social media and Journalism" for the students of the School for Journalism at the Macedonian Institute for Media.
+Lecture "`Social media and Journalism`_" for the students of the School for Journalism at the Macedonian Institute for Media.
 
 **15 April 2013**
 
@@ -199,6 +199,7 @@ Personal
 .. _agreement: http://novica.duoscindo.net/sites/default/files/softverska_nevinost.html
 
 .. Presentations and Lectures
+.. _Social media and Journalism: http://www.vs.edu.mk/index.php?option=com_content&view=article&id=1228%3A2013-05-09-10-51-30&catid=97%3A2011-02-07-15-46-22&Itemid=105&lang=mk
 .. _activism: http://www.radiomof.mk/engage-novica-nakov/
 .. _E-Society: http://e-society.mk/
 
