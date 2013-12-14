@@ -16,6 +16,7 @@ MA in International relations, Faculty of Philosophy, Ss. Cyril and Methodius Un
 MA Thesis in Peacebuilding: "The Impact of Social Policy on Sustainable Peacebuilding"
 
 **July 2011**
+
 Attended Summer School in Comparative Conflict Studies at Center for Comparative Conflict Studies, Faculty of Media and Communications in Belgrade, Serbia.
 
 The topic of the course was transition in Serbia.
@@ -187,6 +188,11 @@ Personal
 + Born: 1980.
 + Residence and citizenship: `Republic of Macedonia`_.
 
+Other Info
+----------
+
+I try to keep an updated CV in the `EU format`_ at eurocv.eu.
+
 .. Non-Paid Work Experience
 .. _PDF: http://www.slobodensoftver.org.mk/files/work-plan-recommendations-final.pdf
 
@@ -217,3 +223,6 @@ Personal
 .. _IT.com.mk: http://it.com.mk/author/novicanakov/
 .. _Radio Free Europe: http://slobodnaevropa.mk/
 .. _Republic of Macedonia: https://en.wikipedia.org/wiki/Republic_of_Macedonia
+
+.. Other Info
+.. _EU format: http://novica.eurocv.eu
