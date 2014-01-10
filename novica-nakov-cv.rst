@@ -202,7 +202,7 @@ I try to keep an updated CV in the `EU format`_ at eurocv.eu.
 .. _in Macedonian: http://www.scribd.com/doc/13719323/%D0%9C%D0%BE%D1%98%D0%BE%D1%82-%D0%B1%D0%BB%D0%BE%D0%B3-%D0%B5-%D0%BC%D0%BE%D0%B5%D1%82%D0%BE-%D1%80%D0%B5%D0%B7%D0%B8%D0%BC%D0%B5
 .. _economics of information goods: http://www.scribd.com/doc/15447385/%D0%9E%D1%81%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D1%83%D0%B2%D0%B0%D1%9A%D0%B5-%D0%BD%D0%B0-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%81%D0%BA%D0%B8%D1%82%D0%B5-%D0%B4%D0%BE%D0%B1%D1%80%D0%B0
 .. _mother tongue: http://www.scribd.com/doc/4654667/%D0%A1%D0%BB%D0%BE%D0%B1%D0%BE%D0%B4%D0%B5%D0%BD-%D1%81%D0%BE%D1%84%D1%82%D0%B2%D0%B5%D1%80-%D0%BD%D0%B0-%D0%BC%D0%B0%D1%98%D1%87%D0%B8%D0%BD-%D1%98%D0%B0%D0%B7%D0%B8%D0%BA
-.. _agreement: http://novica.duoscindo.net/sites/default/files/softverska_nevinost.html
+.. _agreement: http://novica.discindo.org/sites/default/files/softverska_nevinost.html
 
 .. Presentations and Lectures
 .. _Social media and Journalism: http://www.vs.edu.mk/index.php?option=com_content&view=article&id=1228%3A2013-05-09-10-51-30&catid=97%3A2011-02-07-15-46-22&Itemid=105&lang=mk
@@ -214,7 +214,7 @@ I try to keep an updated CV in the `EU format`_ at eurocv.eu.
 .. _contributor: https://mozillians.org/en-US/u/novica/
 
 .. Personal
-.. _airborne: http://novica.duoscindo.net/
+.. _airborne: http://novica.discindo.org/
 .. _Diversity Media Production: http://diversitymedia.mk/index.php/131
 .. _Scribd collection: http://www.scribd.com/collections/2311342/Moi-tekstovi
 .. _On Bullshit: https://en.wikipedia.org/wiki/On_bullshit
