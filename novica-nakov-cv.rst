@@ -103,6 +103,9 @@ Published Articles and Other Writings
 Presentations and Lectures
 --------------------------
 
+**10 May 2014**
+Presentation about the mission and values of Mozilla at the "`Firefox OS event`_" in Skopje
+
 **5 December 2013**
 Workshop / presentation about internet regulation at the student event "Stanica studentska" (with Damjan Georgievski and Ana Risteska).
 
@@ -205,6 +208,7 @@ I try to keep an updated CV in the `EU format`_ at eurocv.eu.
 .. _agreement: http://novica.discindo.org/sites/default/files/softverska_nevinost.html
 
 .. Presentations and Lectures
+.. _Firefox OS event: http://firefoxos.mozilla.mk/
 .. _Social media and Journalism: http://www.vs.edu.mk/index.php?option=com_content&view=article&id=1228%3A2013-05-09-10-51-30&catid=97%3A2011-02-07-15-46-22&Itemid=105&lang=mk
 .. _activism: http://www.radiomof.mk/engage-novica-nakov/
 .. _E-Society: http://e-society.mk/
