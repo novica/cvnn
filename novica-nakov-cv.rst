@@ -104,7 +104,7 @@ Presentations and Lectures
 --------------------------
 
 **10 May 2014**
-Presentation about the mission and values of Mozilla at the "`Firefox OS event`_" in Skopje
+Presentation about the mission and values of Mozilla, and a short introduction to the WoMoz program, at the "`Firefox OS event`_" in Skopje
 
 **5 December 2013**
 Workshop / presentation about internet regulation at the student event "Stanica studentska" (with Damjan Georgievski and Ana Risteska).
