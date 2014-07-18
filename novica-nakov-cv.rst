@@ -10,6 +10,7 @@ Education
 ---------
 
 **December 2012**
+
 Recieved Certificate for Authorized Accountant by the Ministry of Finance of Republic of Macedonia.
 
 **November 2010 – November 2012**
@@ -57,7 +58,7 @@ Trgotekstil zaednicki sluzbi AD – Skopje, a company that works with lending co
 **June 2004 - December 2004**
 
 Worked on the deployment and testing of the e-University software for the European Credit Transfer
-System at the Faculty of Philosophy at Ss. Cyril and Methodius University in Skopje.
+System at the Faculty of Philosophy at Ss. Cyril and Methodius University in Skopje. Provided training for employees of the Faculty's Student Services.
 
 Non-Paid Work Experience
 ------------------------
@@ -172,6 +173,10 @@ Held lectures (with Damjan Georgievski and Igor Stamatovski) about Free Software
 **10 December 2005**
 
 Gave a talk about Free Software and Open Standards at the Local Governance Fair in Skopje, Macedonia.
+
+**September 200**
+
+Held training for GNU/Linux operating system and applications for employees from the Macedonian State Health Fund.
 
 Technical Skills
 ----------------
