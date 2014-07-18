@@ -2,18 +2,21 @@
  Novica Nakov
 ==============
 
-**tl;dr** MA in International Relatoins. Bill-paying day job. Spending rest of the time on Free Software and related topics. It seems I talk a lot. Can write. Constantly learning new things about technology.
+**tl;dr** M.A. in International Relatoins. B.Sc. in Economics. Bill-paying day job. Spending rest of the time on Free Software and related topics. It seems I talk a lot. Can write. Constantly learning new things about technology.
 
 **Email:** nnovica@gmail.com
 
 Education
 ---------
 
+**December 2012**
+Recieved Certificate for Authorized Accountant by the Ministry of Finance of Republic of Macedonia.
+
 **November 2010 – November 2012**
 
-MA in International relations, Faculty of Philosophy, Ss. Cyril and Methodius University, Skopje, Macedonia.
+M.A. in International relations, Faculty of Philosophy, Ss. Cyril and Methodius University, Skopje, Macedonia.
 
-MA Thesis in Peacebuilding: "The Impact of Social Policy on Sustainable Peacebuilding"
+M.A. Thesis in Peacebuilding: "The Impact of Social Policy on Sustainable Peacebuilding"
 
 **July 2011**
 
@@ -173,7 +176,7 @@ Gave a talk about Free Software and Open Standards at the Local Governance Fair 
 Technical Skills
 ----------------
 
-+ Comfortable with the GNU/Linux command line. 
++ Comfortable with the GNU/Linux command line.
 + Can read HTML, some CSS, Python and Bash.
 + Familiar with basic R (took a Coursera course_).
 + Know how to install, set up and upgrade Drupal (see airborne_).
