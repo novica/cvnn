@@ -2,7 +2,7 @@
  Novica Nakov
 ==============
 
-**tl;dr** M.A. in International Relatoins. B.Sc. in Economics. Bill-paying day job. Spending rest of the time on Free Software and related topics. It seems I talk a lot. Can write. Constantly learning new things about technology.
+**tl;dr** M.A. in International Relations. B.Sc. in Economics. Bill-paying day job. Spending rest of the time on Free Software and related topics. It seems I talk a lot. Can write. Constantly learning new things about technology.
 
 **Email:** nnovica@gmail.com
 
