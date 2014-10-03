@@ -62,6 +62,8 @@ System at the Faculty of Philosophy at Ss. Cyril and Methodius University in Sko
 
 Non-Paid Work Experience
 ------------------------
+**October 2011 - May 2013**
+Co-hosted a radio show for digital liberties on Kanal 103.
 
 **April 2010 – April 2011**
 
@@ -195,6 +197,7 @@ Personal
 + Writing mostly in Macedonian on airborne_. In 2012 I received *The Best Blog Award* on the competition organized by `Diversity Media Production`_.
 + Contributing writer about techology and politics at `Nova Makedonija`_, IT.com.mk_ and `Radio Free Europe`_.
 + Some creative writing available online in a `Scribd collection`_.
++ I wrote a book_ with satirical poems, published in September 2014.
 + Translated `On Bullshit`_ into Macedonian_.
 + Born: 1980.
 + Residence and citizenship: `Republic of Macedonia`_.
@@ -229,6 +232,7 @@ I try to keep an updated CV in the `EU format`_ at eurocv.eu.
 .. _airborne: http://novica.discindo.org/
 .. _Diversity Media Production: http://diversitymedia.mk/index.php/131
 .. _Scribd collection: http://www.scribd.com/collections/2311342/Moi-tekstovi
+.. _book: http://www.pmgrecordings.com/makedonide.php?id=113
 .. _On Bullshit: https://en.wikipedia.org/wiki/On_bullshit
 .. _Macedonian: http://novica.github.com/ZaSerenjeto/#kniga
 .. _Nova Makedonija: http://novamakedonija.com.mk/
