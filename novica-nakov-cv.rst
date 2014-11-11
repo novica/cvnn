@@ -109,6 +109,9 @@ Published Articles and Other Writings
 Presentations and Lectures
 --------------------------
 
+**26 October 2014**
+A talk at the E-engagement_ event in Kumanovo: "Everything you wanted to know about activism, but you were afraid to ask"
+
 **10 May 2014**
 Presentation about the mission and values of Mozilla, and a short introduction to the WoMoz program, at the "`Firefox OS event`_" in Skopje
 
@@ -219,6 +222,7 @@ I try to keep an updated CV in the `EU format`_ at eurocv.eu.
 .. _agreement: http://novica.discindo.org/sites/default/files/softverska_nevinost.html
 
 .. Presentations and Lectures
+.. _E-engagement: http://youthalliance.org.mk/c.php?cID=48
 .. _Firefox OS event: http://firefoxos.mozilla.mk/
 .. _Social media and Journalism: http://www.vs.edu.mk/index.php?option=com_content&view=article&id=1228%3A2013-05-09-10-51-30&catid=97%3A2011-02-07-15-46-22&Itemid=105&lang=mk
 .. _activism: http://www.radiomof.mk/engage-novica-nakov/
