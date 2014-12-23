@@ -108,6 +108,8 @@ Published Articles and Other Writings
 
 Presentations and Lectures
 --------------------------
+**18 December 2014**
+Talk and workshop about Internet privacy and free speech at the student event "Stanica studentska" (with Andrej Trajchevski).
 
 **26 October 2014**
 A talk at the E-engagement_ event in Kumanovo: "Everything you wanted to know about activism, but you were afraid to ask"
