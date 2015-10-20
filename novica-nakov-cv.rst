@@ -23,7 +23,11 @@ System at the Faculty of Philosophy at Ss. Cyril and Methodius University in Sko
 
 Non-Paid Work Experience
 ------------------------
+**November 2002 - present**
+Involved with the Macedonian Free Software community and NGO. Organized workshops, lectures, various events. Helped found KIKA - the hacklab in Skopje. Wrote plenty of things (more details below).
+
 **October 2011 - May 2013**
+
 Co-hosted a radio show for digital liberties on Kanal 103.
 
 **April 2010 – April 2011**
