@@ -2,58 +2,19 @@
  Novica Nakov
 ==============
 
-**tl;dr** M.A. in International Relations. B.Sc. in Economics. Bill-paying day job. Spending rest of the time on Free Software and related topics. It seems I talk a lot. Can write. Constantly learning new things about technology.
+**tl;dr** Working with people and software. Interested in exploring the meeting points of technolgy, society, and politics. It seems I talk a lot. I can write. Continuously learning new things. MRes Human righst and International Politics. MA in International Relations. BSc in Economics. 
 
 **Email:** nnovica@gmail.com
-
-Education
----------
-
-**December 2012**
-
-Recieved Certificate for Authorized Accountant by the Ministry of Finance of Republic of Macedonia.
-
-**November 2010 – November 2012**
-
-M.A. in International relations, Faculty of Philosophy, Ss. Cyril and Methodius University, Skopje, Macedonia.
-
-M.A. Thesis in Peacebuilding: "The Impact of Social Policy on Sustainable Peacebuilding"
-
-**July 2011**
-
-Attended Summer School in Comparative Conflict Studies at Center for Comparative Conflict Studies, Faculty of Media and Communications in Belgrade, Serbia.
-
-The topic of the course was transition in Serbia.
-
-**July 2008**
-
-Passed the brokerage exam administered by The Securities and Exchange Commission of the Republic of Macedonia.
-
-**October 2007**
-
-Passed IELST Academic Test. Overall band score 8.0
-
-**September 2006 – January 2007**
-
-Attended one semester at the Faculty of Dramatic Arts, Ss. Cyril and Methodius University, Skopje, Macedonia.
-
-**February 2006 – March 2006**
-
-Attended a course on entrepreneurship with lectures on Strategic Business Development, Marketing, Negotiations, Accounting, Development of New Products, Start-ups.
-
-**October 1999 – October 2005**
-
-B.Sc. in Economics, Faculty of Economics, Ss. Cyril and Methodius University, Skopje, Macedonia.
-
-Graduation paper in Economic Planning: "The Macedonian Software Industry: Government's Role and Possibilities for Development"
 
 Paid Work Experience
 --------------------
 
+**January 2013 – present**
+Business Development at `iborn.net`_, a software consultancy company.
+
 **November 2005 – present**
 
 Trgotekstil zaednicki sluzbi AD – Skopje, a company that works with lending commercial real-estate. Responsible for accounting, financial reports, client/customer relations and legal affairs.
-
 
 **June 2004 - December 2004**
 
@@ -92,6 +53,52 @@ in Republic of Macedonia.
 
 Representative of Free Software Macedonia to e-Citizens work group that was part of the task force
 responsible for drafting the Macedonian National Strategy for Information Society.
+
+Education
+---------
+
+**September 2015 – September 2016**
+
+MRes Human Rights and International Politics, University of Glasgow.
+
+**December 2012**
+
+Recieved Certificate for Authorized Accountant by the Ministry of Finance of Republic of Macedonia.
+
+**November 2010 – November 2012**
+
+MA in International relations, Faculty of Philosophy, Ss. Cyril and Methodius University, Skopje, Macedonia.
+
+MA Thesis in Peacebuilding: "The Impact of Social Policy on Sustainable Peacebuilding"
+
+**July 2011**
+
+Attended Summer School in Comparative Conflict Studies at Center for Comparative Conflict Studies, Faculty of Media and Communications in Belgrade, Serbia.
+
+The topic of the course was transition in Serbia.
+
+**July 2008**
+
+Passed the brokerage exam administered by The Securities and Exchange Commission of the Republic of Macedonia.
+
+**October 2007 & June 2015**
+
+Passed IELST Academic Test. Overall band score 8.0.
+
+**September 2006 – January 2007**
+
+Attended one semester at the Faculty of Dramatic Arts, Ss. Cyril and Methodius University, Skopje, Macedonia.
+
+**February 2006 – March 2006**
+
+Attended a course on entrepreneurship with lectures on Strategic Business Development, Marketing, Negotiations, Accounting, Development of New Products, Start-ups.
+
+**October 1999 – October 2005**
+
+BSc in Economics, Faculty of Economics, Ss. Cyril and Methodius University, Skopje, Macedonia.
+
+Graduation paper in Economic Planning: "The Macedonian Software Industry: Government's Role and Possibilities for Development"
+
 
 Published Articles and Other Writings
 -------------------------------------
@@ -211,6 +218,9 @@ Other Info
 ----------
 
 I try to keep an updated CV in the `EU format`_ at eurocv.eu.
+
+.. Paid Work Experience
+.. _iborn.net: http://iborn.net
 
 .. Non-Paid Work Experience
 .. _PDF: http://www.slobodensoftver.org.mk/files/work-plan-recommendations-final.pdf
