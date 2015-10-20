@@ -10,6 +10,7 @@ Paid Work Experience
 --------------------
 
 **January 2013 – present**
+
 Business Development at `iborn.net`_, a software consultancy company.
 
 **November 2005 – present**
