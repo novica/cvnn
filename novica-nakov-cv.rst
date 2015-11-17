@@ -2,7 +2,7 @@
  Novica Nakov
 ==============
 
-**tl;dr** Working with people and software. Interested in exploring the meeting points of technolgy, society, and politics. It seems I talk a lot. I can write. Continuously learning new things. MRes Human righst and International Politics. MA in International Relations. BSc in Economics. 
+**tl;dr** Working with people and software. Interested in exploring the meeting points of technolgy, society, and politics. It seems I talk a lot. I can write. Continuously learning new things. MRes Human righst and International Politics (Chevening Award). MA in International Relations. BSc in Economics.
 
 **Email:** nnovica@gmail.com
 
@@ -64,7 +64,7 @@ Education
 
 **September 2015 – September 2016**
 
-MRes Human Rights and International Politics, University of Glasgow.
+MRes Human Rights and International Politics, University of Glasgow. (Chevening Award)
 
 **December 2012**
 
