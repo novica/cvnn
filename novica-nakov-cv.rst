@@ -2,7 +2,7 @@
  Novica Nakov
 ==============
 
-**tl;dr** Working with people and software. Interested in exploring the meeting points of technolgy, society, and politics. It seems I talk a lot. I can write. Continuously learning new things. MRes Human righst and International Politics (Chevening Award). MA in International Relations. BSc in Economics.
+**tl;dr** Working with people and software. Interested in exploring the meeting points of technology, society, and politics. It seems I talk a lot. I can write. Continuously learning new things. MRes Human rights and International Politics (Chevening Award). MA in International Relations. BSc in Economics.
 
 **Email:** nnovica@gmail.com
 
@@ -68,7 +68,7 @@ MRes Human Rights and International Politics, University of Glasgow. (Chevening 
 
 **December 2012**
 
-Recieved Certificate for Authorized Accountant by the Ministry of Finance of Republic of Macedonia.
+Received Certificate for Authorized Accountant by the Ministry of Finance of Republic of Macedonia.
 
 **November 2010 – November 2012**
 
@@ -88,7 +88,7 @@ Passed the brokerage exam administered by The Securities and Exchange Commission
 
 **October 2007 & June 2015**
 
-Passed IELST Academic Test. Overall band score 8.0.
+Passed IELTS Academic Test. Overall band score 8.0 and 7.5 respectively.
 
 **September 2006 – January 2007**
 
@@ -193,7 +193,7 @@ Held lectures (with Damjan Georgievski and Igor Stamatovski) about Free Software
 
 Gave a talk about Free Software and Open Standards at the Local Governance Fair in Skopje, Macedonia.
 
-**September 200**
+**September 2004**
 
 Held training for GNU/Linux operating system and applications for employees from the Macedonian State Health Fund.
 
@@ -212,7 +212,7 @@ Personal
 --------
 
 + Writing mostly in Macedonian on airborne_. In 2012 I received *The Best Blog Award* on the competition organized by `Diversity Media Production`_.
-+ Contributing writer about techology and politics at `Nova Makedonija`_, IT.com.mk_ and `Radio Free Europe`_.
++ Contributing writer about politics and technology at `Nova Makedonija`_, `IT.mk`_ and `Radio Free Europe`_.
 + Some creative writing available online in a `Scribd collection`_.
 + I wrote a book_ with satirical poems, published in September 2014.
 + Translated `On Bullshit`_ into Macedonian_.
@@ -257,7 +257,7 @@ I try to keep an updated CV in the `EU format`_ at eurocv.eu.
 .. _On Bullshit: https://en.wikipedia.org/wiki/On_bullshit
 .. _Macedonian: http://novica.github.com/ZaSerenjeto/#kniga
 .. _Nova Makedonija: http://novamakedonija.com.mk/
-.. _IT.com.mk: http://it.com.mk/author/novicanakov/
+.. _IT.mk: http://it.com.mk/author/novicanakov/
 .. _Radio Free Europe: http://slobodnaevropa.mk/
 .. _Republic of Macedonia: https://en.wikipedia.org/wiki/Republic_of_Macedonia
 
