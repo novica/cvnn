@@ -142,5 +142,4 @@ Thesis: The Macedonian Software Industry: Government's Role and Possibilities fo
 Other {data-icon=box}
 --------------------------------------------------------------------------------
 
-### 
 Longer (older) resume [here](resume-old.html).
