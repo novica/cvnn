@@ -1,0 +1,146 @@
+---
+title: "Novica Nakov's resume"
+author: Novica Nakov
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+
+![Novica Nakov](https://avatars2.githubusercontent.com/u/165724?s=460&v=4){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> nnovica@gmail.com
+- <i class="fa fa-github"></i> [github.com/novica](https://github.com/novica)
+- <i class="fa fa-github"></i> [github.com/discindo](https://github.com/discindo)
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Skilled in R and Shiny, data wrangling and visualisations.
+
+- Comfortable at the command line and with distributed version control systems.
+
+- Learning experience in Python.
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Novica Nakov {#title}
+--------------------------------------------------------------------------------
+
+### Experienced finance and operations manager with good data manipulation and visualization skills.
+
+**tl;dr** Working with people and software. Interested in exploring the meeting points of technology, society, and politics. It seems I talk a lot. I can write. Continuously learning new things. MRes Human rights and International Politics (Chevening Award). MA in International Relations. BSc in Economics.
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Data Analysis and Visualisation
+
+...
+
+Skopje, North MacedoniaChina
+
+2015 - Present
+
+::: concise
+- Learned R as part of MRes at University of Glasgow.
+- Recently created a dashboard in Shiny for data on public companies in North Macedonia.
+- Some personal projects and demos are avaiable on my Github page.
+:::
+
+### Finance and business development advisor
+
+IBorn.net DOO - Skopje.
+
+Skopje, North Macedonia
+
+2013 - Present
+
+::: concise
+- Implemented accounting and finance software.
+- Advise on variuous finance and operations matters.
+- Work on identifying potential clients and employees.
+- On some occasions worked on web development with Drupal.
+:::
+
+
+### Finance and operatoins manager
+
+Trgotekstil ZS AD - Skopje.
+
+Skopje, North Macedonia
+
+2005 - Present
+
+::: concise
+- Resposnible for all things finance and reporting.
+- Negotiating contracts with clients.
+- Expanded the company business to accounting services.
+:::
+
+### Various things Free Software
+
+Free Software Macedonia
+
+Skopje, North Macedonia
+
+2002 - Present
+
+::: concise
+- Involved with the free software community for a very long time.
+- Working mostly on localization, advocacy and policy building.
+- Held many of presentations and talks, coordinated various events and teams.
+:::
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of Glasgow
+
+MRes Human Rights and International Politics, (Chevening Award).
+
+Glasgow, UK
+
+2016
+
+Thesis: Human rights and pirate libraries: Can sci-hub.org-enabled improvements in access to scientific literature help fulfil human rights?
+
+### Ss. Cyril and Methodius University in Skopje
+
+B.Sc. in Economics
+
+Skopje, North Macedonia
+
+2005
+
+Thesis: The Macedonian Software Industry: Government's Role and Possibilities for Development
+
+Other {data-icon=box}
+--------------------------------------------------------------------------------
+
+### 
+Longer (older) resume [here](resume-old.html).
