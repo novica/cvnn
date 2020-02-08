@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
     # set it to true for a self-contained HTML page but it'll take longer to render
-    self_contained: false
+    self_contained: true
 ---
 
 Aside
@@ -24,14 +24,16 @@ Contact Info {#contact}
 - For more information, please contact me via email.
 
 
-Skills {#skills}
+Technology Skills {#skills}
 --------------------------------------------------------------------------------
 
-- Skilled in R and Shiny, data wrangling and visualisations.
+- Skilled in *R* and *Shiny*, data wrangling, analytics and visualizations using the *Tidyverse* and *RMarkdown*.
 
-- Comfortable at the command line and with distributed version control systems.
+- Comfortable at the *Linux* command line and with distributed version control systems such as *Git*.
 
-- Learning experience in Python.
+- Comfortable with writing *SQL* queries getting data in and out of *R*.
+
+- Basic knowledge of *Python*, *Pandas*, and *NumPy*.
 
 
 Disclaimer {#disclaimer}
@@ -49,29 +51,34 @@ Main
 Novica Nakov {#title}
 --------------------------------------------------------------------------------
 
-### Experienced finance and operations manager with good data manipulation and visualization skills.
+### R, Tidyverse, Shiny for all things data by night. Finance,  accounting, and law by day. Father always.
 
-**tl;dr** Working with people and software. Interested in exploring the meeting points of technology, society, and politics. It seems I talk a lot. I can write. Continuously learning new things. MRes Human rights and International Politics (Chevening Award). MA in International Relations. BSc in Economics.
+
+**Personal summary** I spend my time working with people, numbers, and software. I am interested in exploring the meeting points of technology, law, society, and politics. I am always looking at the big picture, but also pay attention to details. It seems I talk a lot, and mostly about Free Software. I can write text, and code. I continuously learn new things. MRes Human Rights and International Politics, (Chevening Award). B.Sc. in Economics.
 
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Data Analysis and Visualisation
+### Data Analysis and Visualization
 
-...
+Freelance
 
-Skopje, North MacedoniaChina
+Skopje, North Macedonia
 
 2015 - Present
 
+I started learning R for data science as part of my studies at the University of Glasgow where I had to do an analysis of a large dataset for my thesis. Since then I have been doing various personal and professional projects in R in order to keep my skills up to date and be able to pursue a career in data science.
+
 ::: concise
-- Learned R as part of MRes at University of Glasgow.
-- Recently created a dashboard in Shiny for data on public companies in North Macedonia.
-- Some personal projects and demos are avaiable on my Github page.
+- Worked on a project for a local [NGO](https://idscs.org.mk) for a presentation of data of public companies from North Macedonia using [Shiny](https://kojupravuva.idscs.org.mk).
+- Some personal projects and demos are available on my Github page.
+- Example 1: An [analysis](https://discindo.github.io/natochak/) of Macedonian bicycle accidents (see [Rmd](https://github.com/discindo/natochak/blob/master/accidents.Rmd)).
+- Example 2: A [shiny app](https://novica.shinyapps.io/nmkmappr/) that plots statistical indicators on a map (see [github](https://github.com/discindo/mappr)).
+- I contribute code to few *R* projects. See my github for more.
 :::
 
-### Finance and business development advisor
+### Finance and business development adviser
 
 IBorn.net DOO - Skopje.
 
@@ -79,15 +86,17 @@ Skopje, North Macedonia
 
 2013 - Present
 
+This is my part time / on call professional engagement, usually few hours per week.
+
 ::: concise
 - Implemented accounting and finance software.
-- Advise on variuous finance and operations matters.
+- Advise on various finance and operations matters.
 - Work on identifying potential clients and employees.
 - On some occasions worked on web development with Drupal.
 :::
 
 
-### Finance and operatoins manager
+### Finance and operations manager
 
 Trgotekstil ZS AD - Skopje.
 
@@ -95,9 +104,13 @@ Skopje, North Macedonia
 
 2005 - Present
 
+This is my full time job. 
+
 ::: concise
-- Resposnible for all things finance and reporting.
+- Responsible for all things finance, and VAT and end-of-year reporting.
 - Negotiating contracts with clients.
+- Training new staff.
+- Managed a team of 4-7 people.
 - Expanded the company business to accounting services.
 :::
 
@@ -109,10 +122,12 @@ Skopje, North Macedonia
 
 2002 - Present
 
+This is my volunteering activity. Currently I am organizing TidyTuesday, the R for data science weekly learning meetup, at the [Skopje hacklab](https://discindo.github.io/TidyTuesdayAtKIKA/).
+
 ::: concise
 - Involved with the free software community for a very long time.
 - Working mostly on localization, advocacy and policy building.
-- Held many of presentations and talks, coordinated various events and teams.
+- Held many presentations and talks, coordinated various events and teams.
 :::
 
 
@@ -127,7 +142,7 @@ Glasgow, UK
 
 2016
 
-Thesis: Human rights and pirate libraries: Can sci-hub.org-enabled improvements in access to scientific literature help fulfil human rights?
+Thesis: Human rights and pirate libraries: Can sci-hub.org-enabled improvements in access to scientific literature help fulfill human rights?
 
 ### Ss. Cyril and Methodius University in Skopje
 
@@ -139,7 +154,9 @@ Skopje, North Macedonia
 
 Thesis: The Macedonian Software Industry: Government's Role and Possibilities for Development
 
-Other {data-icon=box}
+Languages {data-icon=language}
 --------------------------------------------------------------------------------
 
-Longer (older) resume [here](resume-old.html).
+- English: Professional
+- German: Beginner (Studied at school and university, but have no active use.)
+- Spanish: Beginner
