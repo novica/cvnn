@@ -11,6 +11,9 @@ format:
     papersize: a4
     mainfont: Ubuntu
     sansfont: Ubuntu Sans
+    include-in-header: |
+      \renewcommand{\toprule}[2]{}
+      \renewcommand{\bottomrule}[2]{}
   html:
     css: style.css
     embed-resources: true
