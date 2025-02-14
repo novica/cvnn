@@ -12,6 +12,8 @@ format:
     sansfont: Ubuntu Sans
     include-in-header: 
       - text: |
+          \thispagestyle{empty}
+          \newpage
           \renewcommand{\toprule}[2]{}
           \renewcommand{\bottomrule}[2]{}
   html:
