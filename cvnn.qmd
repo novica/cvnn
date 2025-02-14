@@ -2,12 +2,11 @@
 format:
   pdf:
     pdf-engine: lualatex
-    documentclass: article
     margin-left: 1.5cm
     margin-right: 1.5cm
     margin-top: 1.5cm
     margin-bottom: 1.5cm
-    fontsize: 6pt
+    fontsize: 10pt
     papersize: a4
     mainfont: Ubuntu
     sansfont: Ubuntu Sans
