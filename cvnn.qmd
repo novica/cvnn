@@ -7,7 +7,7 @@ format:
     margin-right: 1.5cm
     margin-top: 1.5cm
     margin-bottom: 1.5cm
-    fontsize: 7pt
+    fontsize: 6pt
     papersize: a4
     mainfont: Ubuntu
     sansfont: Ubuntu Sans
