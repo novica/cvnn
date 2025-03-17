@@ -43,7 +43,7 @@ September 2023 - Present, Oslo, Norway
 
 - Participated in development of a data platform based on Azure Databricks,
 using Terraform and Azure DevOps;
-- Built ELT pipelines on Databricks using PySpark and Unity Catalog;
+- Built ELT pipelines to ingest APIs and other sources on Databricks using PySpark and Unity Catalog;
 - Led Posit Team on-boarding for 15–20 people;
 - Migrated dashboards and reports to new infrastructure;
 - Partnered with communications department to build a data
