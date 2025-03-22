@@ -4,8 +4,8 @@ format:
     pdf-engine: lualatex
     margin-left: 1.2cm
     margin-right: 1.2cm
-    margin-top: 1.2cm
-    margin-bottom: 1.2cm
+    margin-top: 1cm
+    margin-bottom: 1cm
     fontsize: 9pt
     papersize: a4
     mainfont: Ubuntu
