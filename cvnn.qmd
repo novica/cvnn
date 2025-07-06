@@ -1,0 +1,132 @@
+---
+format:
+  pdf:
+    pdf-engine: lualatex
+    margin-left: 1.2cm
+    margin-right: 1.2cm
+    margin-top: 1cm
+    margin-bottom: 1cm
+    fontsize: 9pt
+    papersize: a4
+    mainfont: Ubuntu
+    sansfont: Ubuntu Sans
+    include-in-header: 
+      - text: |
+          \thispagestyle{empty}
+          \newpage
+          \renewcommand{\toprule}[2]{}
+          \renewcommand{\bottomrule}[2]{}
+  html:
+    css: style.css
+    embed-resources: true
+    tbl-colwidths: [30,20,20,30]
+---
+
+# Novica Nakov
+  
+[nnovica\@gmail.com](mailto:nnovica@gmail.com) | [LinkedIn](https://linkedin.com/in/novica/) | [GitHub](https://github.com/novica/) | Oslo, Norway |
+|---------------|---------------|---------------|---------------|
+
+Experienced data engineering and technology executive skilled in architecting 
+and implementing modern data platforms, data products, and automation pipelines. 
+Strong background in managing cross-functional teams, advising on data strategy, 
+and delivering actionable insights through robust, scalable solutions. 
+Committed to free software principles and continuous learning.
+
+## WORK EXPERIENCE
+
+**Senior Data Engineer** 
+
+Norwegian Veterinary Institute - [September 2023 - Present]
+
+- Participated in development of a data platform based on Azure Databricks,
+using Terraform and Azure DevOps.
+- Built ELT pipelines to ingest APIs and other sources on Databricks using 
+PySpark and Unity Catalog.
+- Led Posit Team on-boarding for 15–20 people.
+- Migrated dashboards and reports to new infrastructure.
+- Partnered with communications department to build a data
+pipeline for presenting data on the web.
+- Provided training for the team of researchers and updated documentation
+frequently.
+
+**Founder & Data Consultant** 
+
+Discindo DOO - Skopje [January 2019 - August 2023]
+
+Founded and ran a boutique data consultancy, delivering end-to-end data 
+solutions while managing client relationships, project execution, and operations.
+
+- Built ETL pipelines to migrate legacy data into modern cloud platforms, 
+enabling multi-user access and real-time analytics.
+- Advised local government on open data strategy and developed a 
+tool to publish municipal budget data for public access.
+- Created a data pipeline for an environmental NGO to run 
+climate models directly on live API data.
+- Provided data science consulting for a U.S. beverage company, 
+improving logistics through custom analytics solutions.
+- Built Google Analytics dashboards to help clients understand 
+user behavior and improve campaign performance.
+
+**Chief Technology Officer (CTO)** 
+
+TZS AD - Skopje [6 years in CTO role, November 2005 - November 2022]
+
+Progressed from entry-level to executive leadership over a 17-year tenure.
+
+- Led a full digital transformation of the company, replacing paper-based workflows
+with modern ERP systems to streamline operations and enable scale.
+- Directed the implementation of a new ERP platform, including vendor selection,
+data migration, documentation, and training of cross-functional teams.
+- Built and managed a finance team of 5–6 people to operate new digital 
+processes, dramatically improving efficiency and reducing manual work.
+- Expanded the company’s service offerings to include outsourced finance 
+and accounting services, enabled by the new ERP capabilities.
+
+**ERP Implementation Consultant (Part-Time)** 
+
+IBORN.NET DOO - Skopje [January 2013 - August 2023]
+
+- Led the replacement of a legacy ERP system as a part-time 
+consultant, modernizing core finance and operations workflows.
+- Implemented, configured, and customized the new ERP, migrated data, 
+created tailored documentation, and trained staff to ensure seamless adoption.
+- Improved financial reporting speed and accuracy, reducing time to generate 
+VAT returns, annual statements, and management reports from hours or days to minutes.
+- Advised leadership on finance and operations, ensuring system setup supported 
+compliance, automation, and real-time decision-making.
+
+## ADDITIONAL EXPERIENCE
+
+- Active member of the Macedonian Free Software community and NGO since its 
+inception, contributing to community organizing, project management, public 
+debates, national policy drafting on Free Software, and advising on e-Governance 
+initiatives using Free/Open Source Software.
+- Long-term contributor to Free Software projects, 
+including Mozilla Localization and R packages.
+- Maintainer of The Carpentries SQL lesson.
+- Mentor at the Data Science Learning Community.
+
+## EDUCATION
+
+**University of Glasgow** - Master of Research Human Rights and International Politics, (Chevening Award)\
+September 2015 - October 2016, Glasgow, UK
+
+**Ss. Cyril and Methodius University in Skopje** - MA in International relations\ 
+November 2010 – November 2012, Skopje, North Macedonia
+
+**Ss. Cyril and Methodius University in Skopje** - B.Sc. in Economics\
+October 1999 - September 2005, Skopje, North Macedonia
+
+## TECHNICAL SKILLS
+
+**Python**: Pandas, NumPy, Matplotlib, Seaborn, dlt. **R**: Tidyverse, Tidymodels, Shiny, golem, data.table. **SQL**: PostegreSQL, duckdb, dbt, SQLMesh. **Databricks**: SQL, PySpark, ELT, Delta Lake, Unity Catalog. Linux, Bash, Git, GitHub Actions, Docker, Terraform, AWS EC2, AWS S3, AWS Glue.
+
+## CERTIFICATES
+
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/1930112d-d92a-4117-86d4-cdbb210f4266/public_url)
+- [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/9c4e70f8-91b1-49da-a359-3e2d2f8b2c89)
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/novicanakov-2159/credentials/7ecc93b6a2e38a11)
+- [dbt Fundamentals](https://www.credential.net/2a95b452-5425-49f9-bc3e-85abc0eca9e8#gs.l24xnd)
+- [Carpentries Certified Instructor](https://carpentries.org/instructors/)
+                     
