@@ -35,9 +35,7 @@ Committed to free software principles and continuous learning.
 
 ## WORK EXPERIENCE
 
-**Senior Data Engineer** 
-
-Norwegian Veterinary Institute - [September 2023 - Present]
+**Senior Data Engineer** - Norwegian Veterinary Institute [September 2023 - Present]
 
 - Participated in development of a data platform based on Azure Databricks,
 using Terraform and Azure DevOps.
@@ -50,9 +48,7 @@ pipeline for presenting data on the web.
 - Provided training for the team of researchers and updated documentation
 frequently.
 
-**Founder & Data Consultant** 
-
-Discindo DOO - Skopje [January 2019 - August 2023]
+**Founder & Data Consultant** - Discindo DOO - Skopje [January 2019 - August 2023]
 
 Founded and ran a boutique data consultancy, delivering end-to-end data 
 solutions while managing client relationships, project execution, and operations.
@@ -68,9 +64,7 @@ improving logistics through custom analytics solutions.
 - Built Google Analytics dashboards to help clients understand 
 user behavior and improve campaign performance.
 
-**Chief Technology Officer (CTO)** 
-
-TZS AD - Skopje [6 years in CTO role, November 2005 - November 2022]
+**Chief Technology Officer (CTO)** - TZS AD - Skopje [6 years in CTO role, November 2005 - November 2022]
 
 Progressed from entry-level to executive leadership over a 17-year tenure.
 
@@ -83,9 +77,7 @@ processes, dramatically improving efficiency and reducing manual work.
 - Expanded the company’s service offerings to include outsourced finance 
 and accounting services, enabled by the new ERP capabilities.
 
-**ERP Implementation Consultant (Part-Time)** 
-
-IBORN.NET DOO - Skopje [January 2013 - August 2023]
+**ERP Implementation Consultant (Part-Time)** - IBORN.NET DOO - Skopje [January 2013 - August 2023]
 
 - Led the replacement of a legacy ERP system as a part-time 
 consultant, modernizing core finance and operations workflows.
